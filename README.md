@@ -9,7 +9,7 @@ A big (huge) collection of rxvt / xterm terminal themes. Contains:
   - 6 themes from [Arcadia](https://github.com/AlessandroYorba/Arcadia)
   - 2 Hyper.sh themes from various
 
-### Instalation
+### Installation
 Clone this repo and put this line in ~/.Xresources
 
 `#include "/path-to/Xresources-theme/theme.Xresources"`
