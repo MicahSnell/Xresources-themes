@@ -1,26 +1,26 @@
 !tartans
 
 ! black
-URxvt*color0  : #2E3436
-URxvt*color8  : #555753
+*.color0  : #2E3436
+*.color8  : #555753
 ! red
-URxvt*color1  : #a31604
-URxvt*color9  : #c60001
+*.color1  : #a31604
+*.color9  : #c60001
 ! green
-URxvt*color2  : #447241
-URxvt*color10 : #27a343
+*.color2  : #447241
+*.color10 : #27a343
 ! yellow
-URxvt*color3  : #c1951a
-URxvt*color11 : #d5a30e
+*.color3  : #c1951a
+*.color11 : #d5a30e
 ! blue
-URxvt*color4  : #425387
-URxvt*color12 : #4a5a8d
+*.color4  : #425387
+*.color12 : #4a5a8d
 ! magenta
-URxvt*color5  : #965d98
-URxvt*color13 : #893c8c
+*.color5  : #965d98
+*.color13 : #893c8c
 ! cyan
-URxvt*color6  : #06989A
-URxvt*color14 : #12bccb
+*.color6  : #06989A
+*.color14 : #12bccb
 ! white
-URxvt*color7  : #D3D7CF
-URxvt*color15 : #EEEEEC
+*.color7  : #D3D7CF
+*.color15 : #EEEEEC

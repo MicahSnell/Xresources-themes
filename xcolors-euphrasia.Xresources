@@ -3,9 +3,9 @@
 ! by bohoomil
 
 ! Xresources
-!URxvt*background:  #000C1A
-!URxvt*foreground:  #ACB4BF
-!URxvt*cursorColor: #335A80
+!*.background:  #000C1A
+!*.foreground:  #ACB4BF
+!*.cursorColor: #335A80
 
 ! fg/bg for Xorg apps
 *background:    #CFCFD9
