@@ -4,7 +4,7 @@
 ! | https://fsociety.info 2016       |
 ! \----------------------------------/
 
-#define bg    [97]#312e39
+#define bg    #312e39
 #define blk   #33303b
 #define fg    #c0a79a
 #define bblk  #4f4b58
